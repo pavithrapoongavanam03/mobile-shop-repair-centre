@@ -12,7 +12,7 @@ public class Main
 	public static void main(String[] args) {
 	    System.out.println("            ------------------------------------");
 	    System.out.println("           * WELCOME TO MOBILE REPAIRING CENTER *");
-        System.out.println("            ------------------------------------");
+            System.out.println("            ------------------------------------");
 	    mobile m = new mobile();
 	    System.out.println("Please select your type of service :\n1.REQUEST SERVICE\n2.TOKEN NUMBER\n3.UPDATE\n4.REPORT\n0.EXIT\n");
          
